@@ -1,0 +1,7 @@
+{
+  "name": "CRM Minimalista",
+  "description": "A simple, geolocated CRM using Supabase and Leaflet.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
